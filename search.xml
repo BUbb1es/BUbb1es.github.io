@@ -4,13 +4,38 @@
   
     
     <entry>
-      <title>测试页面</title>
-      <link href="/blog/done/"/>
-      <url>/blog/done/</url>
+      <title>Day②</title>
+      <link href="/blog/Day%E2%91%A1/"/>
+      <url>/blog/Day%E2%91%A1/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h1><p>如果你看到此页面，说明你已成功运行并部署此网站。</p><p><img src="1.jpg" alt=""></p><p>你可以查看，以下文档进行自定义设置。</p><blockquote><p>网站修改配置文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/butterfly"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/butterfly"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a><hr><blockquote><p>文章书写格式参考文档：</p></blockquote><a class="btn-beautify button--animated " href="https://guguge.gitee.io/blog/markdown"   title="链接1"><i class="fas fa-download"></i><span>链接1</span></a><a class="btn-beautify button--animated " href="https://guguge.top/blog/markdown"   title="链接2"><i class="fas fa-download"></i><span>链接2</span></a>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前端必备三大件"><a href="#前端必备三大件" class="headerlink" title="前端必备三大件"></a>前端必备三大件</h2><p><strong>HTML(文本)</strong> <strong>CSS（图层）</strong> <strong>JS（动画）</strong><br><div class="tabs" id="前端三大件"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#前端三大件-1">HTML（Hyper Text Markup Language）</button></li><li class="tab"><button type="button" data-href="#前端三大件-2">CSS</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="前端三大件-1"><p>超文本标记语言(Web页面基础)<br>超文本：可加载CSS图片、超链接等非文字内容<br><img src="html源码&amp;结构.jpg" alt="源码&amp;结构"></p><p><strong>HTML文档(不区分大小写)</strong><br>HTML元素：开始标签 闭合标签(比开始标签多‘/’) 常见：p,img,!—,a,form,iframe<br>        属性：元素额外信息，处于开始标签中(id,name,class…)</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="前端三大件-2"><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div></p><h2 id="HTML与DOM关系"><a href="#HTML与DOM关系" class="headerlink" title="HTML与DOM关系"></a>HTML与DOM关系</h2><p>以HTML为根节点出发，以HEAD，BODY为子节点继续分支(树型结构)</p>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> 前端知识 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Day①</title>
+      <link href="/blog/Day%E2%91%A0/"/>
+      <url>/blog/Day%E2%91%A0/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="WEB是什么？URL作用-amp-格式"><a href="#WEB是什么？URL作用-amp-格式" class="headerlink" title="WEB是什么？URL作用&amp;格式"></a>WEB是什么？URL作用&amp;格式</h2><p>WEB，即万维网（<strong>World Wide Web</strong>），通过浏览器上网都属于WEB,我们都生活在WEB中！</p><p>统一资源定位符(<strong>Uniform Resource Locator</strong>),支持多种协议(HTTP、FTP…),充当定位地址。</p><p>格式: <mark class="hl-label red">底层协议://</mark> <mark class="hl-label blue">服务器IP或域名:\[端口，默认80\]</mark> /<mark class="hl-label orange">访问资源路径</mark> ?<mark class="hl-label pink">发送给Server数据</mark> [<mark class="hl-label green">#锚</mark> ]</p><h2 id="WEB发展三阶段"><a href="#WEB发展三阶段" class="headerlink" title="WEB发展三阶段"></a>WEB发展三阶段</h2><div class="tabs" id="web发展标签"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#web发展标签-1">WEB 1.0 个人网站、门户站点</button></li><li class="tab"><button type="button" data-href="#web发展标签-2">WEB 2.0 微博、Blog</button></li><li class="tab"><button type="button" data-href="#web发展标签-3">WEB 3.0 正在发展中</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="web发展标签-1"><p>存在安全问题<br>(<strong>只针对个人,主要危害web服务器</strong>)<br>    SQL注入、文件包含、上传漏洞<br>    命令执行、挂马、暗链</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="web发展标签-2"><p>存在安全问题<br>(<strong>用户间可互动，针对web的用户</strong>)<br>    XSS、CSRF、钓鱼、URL跳转<br>    数据劫持、框架漏洞、逻辑漏洞</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="web发展标签-3"><p>待续未完…</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h2 id="WEB工作流程-amp-浏览器工作原理"><a href="#WEB工作流程-amp-浏览器工作原理" class="headerlink" title="WEB工作流程&amp;浏览器工作原理"></a>WEB工作流程&amp;浏览器工作原理</h2><p><img src="web流程.jpg" alt="Web工作流程"><br><img src="浏览器工作原理.jpg" alt="浏览器工作原理"></p><h2 id="HTTP报文结构"><a href="#HTTP报文结构" class="headerlink" title="HTTP报文结构"></a>HTTP报文结构</h2><p>Web通信时用的协议（<strong>Hyper Text Transfer Protocol</strong>），超文本传输协议</p><p>主要结构：请求行（GET:请求资源、POST：提交处理数据）     响应行（RESPONSE）<br>       头部                                            头部<br>     数据体（GET通常无）                              数据体</p><p>Location头部：要跳转的地址<br>Cookie出现在请求(响应)报文：验证身份凭证（颁发身份凭证）</p><p>其他请求方法：<br>HEAD：与GET同，只返回HTTP报头，不返回文档主体<br>PUT:上传指定URI表示<br>DELETE：删除指定资源<br>OPTIONS：返回服务器支持的HTTP方法<br>CONNECT：把请求连接转换到透明的TCP/IP通道</p><h2 id="Cookie-amp-Set-Cookie的区别"><a href="#Cookie-amp-Set-Cookie的区别" class="headerlink" title="Cookie&amp;Set-Cookie的区别"></a>Cookie&amp;Set-Cookie的区别</h2><p>①类型：<br>      Cookie是服务器发送到浏览器的变量<br>      Set-Cookie()是函数，由服务器发送一个HTTP-cookie到浏览器</p><p>②存在形式：<br>      Cookie:独立于语言存在，无论是什么语言，本质都一样，都能读取到<br>      Set-Cookie():PHP中函数，Set-rawcookie()一样可设置Cookie，都有Boolean型返回值，false→失败，true→成功，仅供参考，不保证百分百成功<br>③作用：<br>      Cookie:身份证，每台电脑都不同,区分用户,可通过HTTP请求头发送到S端<br>      Set-Cookie()：向C端发送HTTP-Cookie</p><h2 id="Referer作用-amp-amp-状态码区别"><a href="#Referer作用-amp-amp-状态码区别" class="headerlink" title="Referer作用&amp;&amp;状态码区别"></a>Referer作用&amp;&amp;状态码区别</h2><p>Referer头会自动加上，告知服务器请求来源（区分:搜索引擎中搜索进入、直接输入网址进入）<br>统计流量：CNZZ<br>判断来源合法性：防止盗链、防止CSRF漏洞</p><p>HTTP状态码分类：<br>    1<strong> ：服务器接收请求、但不操作<br>    2</strong> ：操作被成功并处理<br>    3<strong> ：重定向，需要进一步操作<br>    4</strong> ：C端错误，包含语法错误or无法完成请求<br>    5** ：S端错误，处理请求过程中出错</p><p>301：永久性重定向（A→B，A不可用），会将A网址替换为B网址<br>302：暂时性重定向（A→B，A仍可用），仍保留A地址，容易发生网址劫持（黑客H网址→利用B网站吸取流量）</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> web知识 </tag>
+            
+        </tags>
       
     </entry>
     
