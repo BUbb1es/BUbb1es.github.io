@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>计算机学习资料</title>
+      <link href="/blog/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/"/>
+      <url>/blog/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="tabs" id="学习资料"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#学习资料-1">Web Security</button></li><li class="tab"><button type="button" data-href="#学习资料-2">Data Structure</button></li><li class="tab"><button type="button" data-href="#学习资料-3">Data Base</button></li><li class="tab"><button type="button" data-href="#学习资料-4">Network Of Computer</button></li><li class="tab"><button type="button" data-href="#学习资料-5">Component Of Computer</button></li><li class="tab"><button type="button" data-href="#学习资料-6">Road Of Study</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="学习资料-1"><p><img src="WS.jpg" alt="Web安全"><br>链接：<a href="https://pan.baidu.com/s/1LhPOUyRsQtzHgTUNAs3o1A?pwd=WebS">https://pan.baidu.com/s/1LhPOUyRsQtzHgTUNAs3o1A?pwd=WebS</a><br>提取码：WebS</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="学习资料-2"><p><img src="DS.jpg" alt="数据结构"><br>链接：<a href="https://pan.baidu.com/s/1pHgl1gE2uoZq9T4fo_EAsw?pwd=DatS">https://pan.baidu.com/s/1pHgl1gE2uoZq9T4fo_EAsw?pwd=DatS</a><br>提取码：DatS</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="学习资料-3"><p><img src="DB.jpg" alt="数据库(MySQL)"><br>链接：<a href="https://pan.baidu.com/s/1qGVGI3Mlwo79uF5-SYSsTw?pwd=DatB">https://pan.baidu.com/s/1qGVGI3Mlwo79uF5-SYSsTw?pwd=DatB</a><br>提取码：DatB</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="学习资料-4"><p><img src="NC.jpg" alt="计算机网络"><br>链接：<a href="https://pan.baidu.com/s/1-yFUYyZyFH8_eOofT_cwJw?pwd=NetW">https://pan.baidu.com/s/1-yFUYyZyFH8_eOofT_cwJw?pwd=NetW</a><br>提取码：NetW</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="学习资料-5"><p><img src="CC.jpg" alt="计算机组成"><br>链接：<a href="https://pan.baidu.com/s/1gUDgQ3Z40Jn1jwNT85zXKw?pwd=ComC">https://pan.baidu.com/s/1gUDgQ3Z40Jn1jwNT85zXKw?pwd=ComC</a><br>提取码：ComC</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="学习资料-6"><p><img src="RS.jpg" alt="学习路线脑图"><br>链接：<a href="https://pan.baidu.com/s/1V01dT9_668aUn79e0e9cqg?pwd=RrdS">https://pan.baidu.com/s/1V01dT9_668aUn79e0e9cqg?pwd=RrdS</a><br>提取码：RrdS</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div><h1 id="Web安全路线参考"><a href="#Web安全路线参考" class="headerlink" title="Web安全路线参考"></a>Web安全路线参考</h1><p><img src="EX.jpg" alt="参考图"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 资料 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo&amp;bat文件以及Markdown</title>
       <link href="/blog/Hexo/"/>
       <url>/blog/Hexo/</url>
